@@ -13,3 +13,8 @@
     --element-padding: 0.8rem;
     --button-padding: 1em;
 }
+
+.container {
+    display: flex;
+    background: var(--main-color);
+}
