@@ -33,6 +33,7 @@
     background: var(--logo-background-color);
     text-align: center;
     position: relative;
+    top: 100px
 }
 
 .container .main-content {
