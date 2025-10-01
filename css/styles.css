@@ -6,3 +6,8 @@
     padding: 0;
 }
 
+:root {
+    --main-color: #9966cc;
+    --accent-color: #f1f2f3;
+    --button-color: #33ca7f;
+}
