@@ -19,4 +19,10 @@
     justify-content: space-evenly;
     height: 100vh;
 }
+
+.container .header {
+    flex: 1;
+    background: #9966cc;
+}
+
 }
