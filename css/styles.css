@@ -25,6 +25,7 @@
 .container .header {
     flex: 1;
     background: #9966cc;
+    position: relative;
 }
 
 .header .logo {
