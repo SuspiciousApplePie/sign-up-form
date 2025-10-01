@@ -32,6 +32,7 @@
     font-size: var(--title-font-size);
     background: var(--logo-background-color);
     text-align: center;
+    position: relative;
 }
 
 .container .main-content {
