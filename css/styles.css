@@ -26,6 +26,10 @@
     background: #9966cc;
 }
 
+.header .logo {
+    background: var(--logo-background-color);
+}
+
 .container .main-content {
     flex: 2;
 }
