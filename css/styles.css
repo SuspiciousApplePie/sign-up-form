@@ -109,4 +109,6 @@
     display: flex;
 }
 
+.main-content .form-control *{
+    display: block;
 }
