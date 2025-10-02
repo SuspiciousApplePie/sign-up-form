@@ -103,5 +103,10 @@
     flex: 2 auto;
     padding: calc(var(--element-padding) * 2);
     background-color: #33ca7f;
-    flex: 2 auto;
+}
+
+.main-content .form-row {
+    display: flex;
+}
+
 }
