@@ -76,4 +76,6 @@
     flex: 2;
     font-family: var(--main-content-font);
     font-weight: 1000;
+    display: flex;
+    flex-direction: column;
 }
