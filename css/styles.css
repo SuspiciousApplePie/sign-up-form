@@ -51,6 +51,10 @@
     display: inline;
 }
 
+.logo path {
+    fill: var(--accent-color);
+    stroke: var(--accent-color);
+}
 
 .container .main-content {
     flex: 2;
