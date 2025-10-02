@@ -20,7 +20,7 @@
     --accent-color: #f1f2f3;
     --button-color: #33ca7f;
     --logo-background-color: #33333399;
-    --element-padding: 0.8rem;
+    --element-padding: 1rem;
     --button-padding: 1em;
     --title-font-size: 1.4rem;
     font-family: 'good_timingbold';
@@ -49,6 +49,7 @@
 
 .logo h1 {
     display: inline;
+    color: var(--accent-color);
 }
 
 .logo svg {
