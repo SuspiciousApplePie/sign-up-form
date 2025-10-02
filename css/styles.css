@@ -90,4 +90,5 @@
 
 .description .description-block {
     position: absolute;
+    bottom: 65px;
     width: 75ch;
