@@ -44,6 +44,7 @@
 .container .header {
     flex: 1;
     background: #9966cc;
+    font-family: var(--header-font);
     position: relative;
 }
 
