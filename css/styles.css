@@ -85,3 +85,6 @@
 .main-content .description {
     position: relative;
     height: 30vh;
+    padding: calc(var(--element-padding) * 2);
+}
+
