@@ -88,3 +88,5 @@
     padding: calc(var(--element-padding) * 2);
 }
 
+.description .description-block {
+    position: absolute;
