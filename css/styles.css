@@ -33,6 +33,7 @@
     --title-font-size: 1.4rem;
     --header-font: 'good_timingbold';
     --main-content-font: 'PT Sans';
+    line-height: 1.5;
 }
 
 .container {
