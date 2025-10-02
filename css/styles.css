@@ -7,10 +7,10 @@
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    src: url('../fonts/Montserrat-Thin.woff2') format('woff2'),
-        url('../fonts/Montserrat-Thin.woff') format('woff');
-    font-weight: 100;
+    font-family: 'PT Sans';
+    src: url('../fonts/PTSans-Regular.woff2') format('woff2'),
+        url('../fonts/PTSans-Regular.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
@@ -32,7 +32,7 @@
     --button-padding: 1em;
     --title-font-size: 1.4rem;
     --header-font: 'good_timingbold';
-    --main-content-font: 'Montserrat';
+    --main-content-font: 'PT Sans';
 }
 
 .container {
