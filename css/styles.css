@@ -43,6 +43,7 @@
     background: var(--logo-background-color);
     text-align: center;
     position: relative;
+    padding: var(--element-padding);
     top: 100px
 }
 
