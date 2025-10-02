@@ -55,7 +55,7 @@
     text-align: center;
     position: relative;
     padding: var(--element-padding);
-    top: 100px
+    top: calc(30vh - 97px);
 }
 
 .logo h1 {
