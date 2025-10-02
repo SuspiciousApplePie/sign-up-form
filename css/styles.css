@@ -99,3 +99,7 @@
     margin-top: 20px;
 }
 
+.main-content .form-section {
+    background-color: #33ca7f;
+    flex: 2 auto;
+}
