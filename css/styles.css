@@ -94,3 +94,8 @@
     width: 75ch;
     font-weight: 900;
 }
+
+.description .description-block > p:last-of-type {
+    margin-top: 20px;
+}
+
