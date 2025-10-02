@@ -51,6 +51,11 @@
     display: inline;
 }
 
+.logo svg {
+    position: relative;
+    top: 10px;
+}
+
 .logo path {
     fill: var(--accent-color);
     stroke: var(--accent-color);
