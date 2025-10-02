@@ -55,7 +55,7 @@
     text-align: center;
     position: relative;
     padding: var(--element-padding);
-    top: calc(40vh - 97px);
+    top: calc(240px - 99px);
 }
 
 .logo h1 {
@@ -84,7 +84,7 @@
 
 .main-content .description {
     position: relative;
-    height: 40vh;
+    flex: 1 auto;
     padding: calc(var(--element-padding) * 2);
 }
 
