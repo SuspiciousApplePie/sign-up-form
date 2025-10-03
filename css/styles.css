@@ -106,6 +106,9 @@
     background-color: #33ca7f;
 }
 
+.main-content .form-body {
+    padding: calc(var(--element-padding) * 1.5);
+
 .main-content .form-row {
     display: flex;
     gap: 3rem;
