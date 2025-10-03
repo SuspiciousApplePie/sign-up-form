@@ -80,6 +80,7 @@
 
 .header footer {
     position: absolute;
+    bottom: 20px;
 .header footer, .header a {
     font-size: var(--label-font-size);
     color: var(--accent-color);
