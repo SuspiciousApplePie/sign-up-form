@@ -132,4 +132,5 @@
 
 .main-content .form-button button {
     width: 10rem;
+    padding: var(--button-padding);
 }
