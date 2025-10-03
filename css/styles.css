@@ -137,12 +137,14 @@
     border-radius: 5px;
 }
 
-.main-content .form-control input:valid {
-    border: 2px solid var(--success-color);
+.main-content .form-control input:user-valid {
+    outline: 2px solid var(--success-color);
 }
 
-.main-content .form-control input:invalid {
-    border: 2px solid var(--error-color);
+.main-content .form-control input:user-invalid {
+    outline: 2px solid var(--error-color);
+}
+
 }
 
 .main-content .form-button {
