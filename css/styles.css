@@ -103,7 +103,6 @@
 
 .main-content .form-section {
     flex: 2;
-    padding: calc(var(--element-padding) * 2);
     background-color: #33ca7f;
 }
 
@@ -115,7 +114,7 @@
 .main-content .form-row {
     display: flex;
     gap: 3rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: var(--form-border);
 }
 
 .main-content .form-control *{
