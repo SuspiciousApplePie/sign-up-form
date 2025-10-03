@@ -26,7 +26,7 @@
 :root {
     --main-color: #9966cc;
     --accent-color: #f1f2f3;
-    --button-color: #33ca7f;
+    --success-color: #33ca7f;
     --logo-background-color: #33333399;
     --element-padding: 1rem;
     --button-padding: 0.5em;
@@ -133,4 +133,5 @@
 .main-content .form-button button {
     width: 10rem;
     padding: var(--button-padding);
+    background-color: #9966cc;
 }
