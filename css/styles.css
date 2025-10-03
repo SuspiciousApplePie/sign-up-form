@@ -30,7 +30,7 @@
     --logo-background-color: #33333399;
     --element-padding: 1rem;
     --button-padding: 1em;
-    --form-border: 0.5rem;
+    --form-margin: 0.5rem;
     --title-font-size: 1.4rem;
     --label-font-size: 0.6rem;
     --header-font: 'good_timingbold';
@@ -114,7 +114,7 @@
 .main-content .form-row {
     display: flex;
     gap: 3rem;
-    margin-bottom: var(--form-border);
+    margin-bottom: var(--form-margin);
 }
 
 .main-content .form-control *{
