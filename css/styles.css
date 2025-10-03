@@ -104,6 +104,10 @@
     margin-top: 20px;
 }
 
+.main-content .description-block span {
+    color: var(--main-color);
+}
+
 .main-content .form-section {
     flex: 3;
 }
