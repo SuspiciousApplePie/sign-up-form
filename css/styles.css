@@ -83,6 +83,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: var(--main-content-color);
 }
 
 .main-content .description {
@@ -104,7 +105,6 @@
 
 .main-content .form-section {
     flex: 3;
-    background-color: #33ca7f;
 }
 
 .main-content .form-body {
