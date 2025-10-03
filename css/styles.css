@@ -108,6 +108,8 @@
 
 .main-content .form-body {
     padding: calc(var(--element-padding) * 1.5);
+    box-shadow: 0px 2px 10px var(--logo-background-color);
+} 
 
 .main-content .form-row {
     display: flex;
