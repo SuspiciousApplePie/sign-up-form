@@ -78,7 +78,7 @@
 }
 
 .container .main-content {
-    flex: 2;
+    flex: 3;
     font-family: var(--main-content-font);
     font-weight: 1000;
     display: flex;
