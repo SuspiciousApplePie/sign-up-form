@@ -100,7 +100,7 @@
 }
 
 .main-content .form-section {
-    flex: 2 auto;
+    flex: 2;
     padding: calc(var(--element-padding) * 2);
     background-color: #33ca7f;
 }
