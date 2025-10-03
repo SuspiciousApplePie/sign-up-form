@@ -116,3 +116,5 @@
 
 .main-content label {
     font-size: var(--label-font-size);
+    margin-bottom: 3px;
+}
