@@ -78,6 +78,8 @@
     stroke: var(--accent-color);
 }
 
+.header footer {
+    position: absolute;
 .header footer, .header a {
     font-size: var(--label-font-size);
     color: var(--accent-color);
