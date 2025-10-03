@@ -176,3 +176,8 @@
 .main-content .form-button button:hover {
     background-color: #7a52a3;
 }
+
+.main-content .form-button a {
+    color: var(--main-color);
+    text-decoration: none;
+}
