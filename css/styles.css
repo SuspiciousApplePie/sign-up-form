@@ -113,3 +113,6 @@
 .main-content .form-control *{
     display: block;
 }
+
+.main-content label {
+    font-size: var(--label-font-size);
