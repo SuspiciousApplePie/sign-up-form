@@ -132,6 +132,7 @@
     padding: 4px;
     font-family: var(--main-content-font);
     width: 12rem;
+    border: 1px solid #33333326;
 }
 
 .main-content .form-button {
