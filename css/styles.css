@@ -109,6 +109,7 @@
 .main-content .form-row {
     display: flex;
     gap: 3rem;
+    margin-bottom: 1.5rem;
 }
 
 .main-content .form-control *{
