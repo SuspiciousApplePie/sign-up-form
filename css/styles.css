@@ -84,7 +84,7 @@
 
 .main-content .description {
     position: relative;
-    flex: 1 auto;
+    flex: 1;
     padding: calc(var(--element-padding) * 2);
 }
 
