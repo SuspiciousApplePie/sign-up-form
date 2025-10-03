@@ -123,10 +123,13 @@
     display: block;
 }
 
-.main-content label {
+.main-content .form-control label {
     font-size: var(--label-font-size);
     margin-bottom: 3px;
 }
+
+.main-content .form-control input {
+    padding: 4px;
 
 .main-content .form-button {
     padding: calc(var(--element-padding) * 1.5);
