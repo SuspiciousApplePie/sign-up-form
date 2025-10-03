@@ -141,6 +141,9 @@
     border: 2px solid var(--success-color);
 }
 
+.main-content .form-control input:invalid {
+    border: 2px solid var(--error-color);
+}
 
 .main-content .form-button {
     padding: calc(var(--element-padding) * 1.5);
