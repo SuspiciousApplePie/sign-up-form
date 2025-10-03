@@ -82,6 +82,8 @@
     position: absolute;
     bottom: 20px;
     width: 100%;
+    text-align: center;
+}
 .header footer, .header a {
     font-size: var(--label-font-size);
     color: var(--accent-color);
