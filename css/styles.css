@@ -35,8 +35,8 @@
     --form-margin: 0.5rem;
     --title-font-size: 1.4rem;
     --label-font-size: 0.6rem;
-    --header-font: 'good_timingbold';
-    --main-content-font: 'PT Sans';
+    --header-font: 'good_timingbold', 'Times New Roman', 'Times', serif;
+    --main-content-font: 'PT Sans', 'Arial', 'Calibri';
     line-height: 1.5;
 }
 
@@ -59,7 +59,7 @@
     text-align: center;
     position: relative;
     padding: var(--element-padding);
-    top: calc(240px - 99px);
+    top: 7rem;
 }
 
 .logo h1 {
