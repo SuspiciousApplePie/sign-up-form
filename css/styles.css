@@ -164,3 +164,7 @@
     border-radius: 5px;
     margin-bottom: 20px;
 }
+
+.main-content .form-button button:hover {
+    background-color: #7a52a3;
+}
