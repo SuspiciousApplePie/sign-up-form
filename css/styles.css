@@ -138,4 +138,5 @@
     color: var(--accent-color);
     font-weight: 900;
     border: none;
+    border-radius: 5px;
 }
