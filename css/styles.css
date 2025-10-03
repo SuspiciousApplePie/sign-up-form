@@ -125,3 +125,7 @@
     font-size: var(--label-font-size);
     margin-bottom: 3px;
 }
+
+.main-content .form-button {
+    padding: calc(var(--element-padding) * 1.5);
+}
