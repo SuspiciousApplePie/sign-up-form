@@ -78,6 +78,11 @@
     stroke: var(--accent-color);
 }
 
+.header footer {
+    font-size: var(--label-font-size);
+}
+
+
 .container .main-content {
     flex: 3;
     font-family: var(--main-content-font);
