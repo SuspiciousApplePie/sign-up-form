@@ -131,6 +131,8 @@
 .main-content .form-control input {
     padding: 4px;
     font-family: var(--main-content-font);
+    width: 12rem;
+}
 
 .main-content .form-button {
     padding: calc(var(--element-padding) * 1.5);
