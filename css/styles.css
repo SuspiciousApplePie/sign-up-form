@@ -137,6 +137,11 @@
     border-radius: 5px;
 }
 
+.main-content .form-control input:valid {
+    border: 2px solid var(--success-color);
+}
+
+
 .main-content .form-button {
     padding: calc(var(--element-padding) * 1.5);
 }
