@@ -136,4 +136,5 @@
     background-color: #9966cc;
     font-family: var(--main-content-font);
     color: var(--accent-color);
+    border: none;
 }
