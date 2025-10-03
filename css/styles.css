@@ -78,10 +78,10 @@
     stroke: var(--accent-color);
 }
 
-.header footer {
+.header footer, .header a {
     font-size: var(--label-font-size);
+    color: var(--accent-color);
 }
-
 
 .container .main-content {
     flex: 3;
